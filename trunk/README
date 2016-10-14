@@ -1,0 +1,17 @@
+-------------
+-- cl-xspf --
+-------------
+
+A Common Lisp API for the "XML Shareable Playlist Format".
+More informations could be find here :
+
+http://www.xspf.org/
+
+
+
+Local variables:
+mode: outline
+paragraph-separate: "[  ^L]*$"
+end:
+
+

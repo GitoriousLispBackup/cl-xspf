@@ -1,0 +1,35 @@
+-------------
+-- cl-xspf --
+-------------
+
+** Version 0.3 **
+
+* Accessing tracks *
+  Add a method to retrieve tracks of the playlist.
+
+
+
+** Version 0.2 **
+
+* Tracks order *
+  Modify the tracks order.
+
+* User API *
+  Addons to the API for an external usage.
+
+
+
+** Version 0.1 **
+
+* Input/Output XSPF files *
+  Implements API to read or write XSPF files.
+
+* Implements playlist, tracks. *
+  Implements CLOS specification of XSPF.
+
+
+
+Local variables:
+mode: outline
+paragraph-separate: "[  ^L]*$"
+end:
